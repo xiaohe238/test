@@ -14,7 +14,7 @@ namespace ZfbQrcode
     public partial class Form1 : Form
     {
         Method method = new Method();
-        string let;//存蓄备注字符
+        string let;//存储备注字符
         DateTime dt = DateTime.Parse("00:01:00");
         public Form1()
         {
